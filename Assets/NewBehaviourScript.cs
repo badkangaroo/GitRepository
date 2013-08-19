@@ -2,8 +2,7 @@
 using System.Collections;
 
 public class NewBehaviourScript : MonoBehaviour {
-	public int somenumber;
-	public int othernumber;
+	public int aprilsNumber;
 	// Use this for initialization
 	void Start () {
 	
