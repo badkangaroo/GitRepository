@@ -2,5 +2,5 @@
 using System.Collections;
 
 public class NewBehaviourScript : MonoBehaviour {
-	public int OriginalNumber;
+	public int AprilsNumber;
 }
